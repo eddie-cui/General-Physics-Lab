@@ -7,7 +7,7 @@ Shanghaitech university 2025 Srping General Physics I Lab. Including all code ne
 
 
 
-### 这是用来处理常见物理实验实验数据的代码，代码结构如下：
+### 这是用来处理常见物理实验实验数据的代码，文件结构如下：
 
 ```
 │  Data_process.py
